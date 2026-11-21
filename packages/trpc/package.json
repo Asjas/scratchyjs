@@ -19,7 +19,7 @@
     "@trpc/server": "11.16.0",
     "fastify-plugin": "5.1.0",
     "superjson": "2.2.6",
-    "zod": "4.3.6"
+    "zod": "4.6.6"
   },
   "devDependencies": {
     "fastify": "5.8.5",
